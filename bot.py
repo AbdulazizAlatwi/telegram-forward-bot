@@ -25,8 +25,8 @@ if not os.path.isfile('allowed.json'):
 
 chats = {}
 allowed = []
-TOKEN = ""
-PASSWORD = "changeme"
+TOKEN = "848466055:AAELI5djrL4Kbh7SSB0ZQuibxRxxraWBEI0"
+PASSWORD = "2316"
 
 with open('chats.json', 'r') as f:
     chats = json.load(f)
